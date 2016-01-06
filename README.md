@@ -54,6 +54,10 @@ conda update anaconda
 
 可以在[nbviewer](http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/index.ipynb)中查看该项目。
 
+可以在 static files 文件夹查看 [HTML 文件](static files/html/README.md)。
+
+----
+
 - [01. **Python 工具**](01. python tools)
 	 - [01.01 Python简介](01. python tools/01.01 python overview.ipynb)
 	 - [01.02 Ipython 解释器](01. python tools/01.02 ipython interpreter.ipynb)
@@ -172,6 +176,13 @@ conda update anaconda
 	 - [09.04 线性回归](09. theano/09.04 linear regression.ipynb)
 	 - [09.05 logistic 回归](09. theano/09.05 logistic regression .ipynb)
 	 - [09.06 符号图结构](09. theano/09.06 graph structures.ipynb)
-- [10. **有趣的主题**](10. something interesting)
+	 - [09.07 Softmax 回归：MNIST 数据集](09. theano/09.07 softmax on mnist.ipynb)
+	 - [09.08 人工神经网络](09. theano/09.08 net.ipynb)
+- [10. **有趣的第三方模块**](10. something interesting)
 	 - [10.01 使用 basemap 画地图](10. something interesting/10.01 maps using basemap.ipynb)
 	 - [10.02 使用 cartopy 画地图](10. something interesting/10.02 maps using cartopy.ipynb)
+- [11. **有用的工具**](11. useful tools)
+	 - [11.01 pprint 模块：打印 Python 对象](11. useful tools/11.01 pprint.ipynb)
+	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cPickle.ipynb)
+	 - [11.03 json 模块：处理 JSON 数据](11. useful tools/11.03 json.ipynb)
+
