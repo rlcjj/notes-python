@@ -54,7 +54,7 @@ conda update anaconda
 
 可以在[nbviewer](http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/index.ipynb)中查看该项目。
 
-可以在 static files 文件夹查看 [HTML 文件](static files/html/README.md)。
+可以使用 notebook "`generate static files.ipynb`" 或者执行 `Python` 代码 "`generate_static_files.py`" 来生成静态的 `HTML` 文件。
 
 ----
 
