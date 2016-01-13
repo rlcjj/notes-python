@@ -126,5 +126,5 @@
 	 - [10.02 使用 cartopy 画地图](10. something interesting/10.02 maps using cartopy.ipynb)
 - [11. **有用的工具**](11. useful tools)
 	 - [11.01 pprint 模块：打印 Python 对象](11. useful tools/11.01 pprint.ipynb)
-	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cPickle.ipynb)
+	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cpickle.ipynb)
 	 - [11.03 json 模块：处理 JSON 数据](11. useful tools/11.03 json.ipynb)
