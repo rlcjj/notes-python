@@ -1,4 +1,4 @@
-# 中文Python笔记
+# 中文 Python 笔记
 
 > 版本：0.0.1
 
@@ -52,7 +52,7 @@ conda update anaconda
 
 ## 目录
 
-可以在[nbviewer](http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/index.ipynb)中查看该项目。
+可以在 [nbviewer](http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/index.ipynb) 中查看该项目。
 
 可以在 Notebook 中打开 `generate static files.ipynb`，或者命令行中运行代码 `generate_static_files.py` 来生成静态的 HTML 文件。
 
@@ -118,6 +118,7 @@ conda update anaconda
 	 - [04.06 积分](04. scipy/04.06 integration in python.ipynb)
 	 - [04.07 解微分方程](04. scipy/04.07 ODEs.ipynb)
 	 - [04.08 稀疏矩阵](04. scipy/04.08 sparse matrix.ipynb)
+	 - [04.09 线性代数](04. scipy/04.09 linear algbra.ipynb)
 - [05. **Python 进阶**](05. advanced python)
 	 - [05.01 sys 模块简介](05. advanced python/05.01 overview of the sys module.ipynb)
 	 - [05.02 与操作系统进行交互：os 模块](05. advanced python/05.02 interacting with the OS - os.ipynb)
@@ -190,3 +191,4 @@ conda update anaconda
 	 - [11.01 pprint 模块：打印 Python 对象](11. useful tools/11.01 pprint.ipynb)
 	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cpickle.ipynb)
 	 - [11.03 json 模块：处理 JSON 数据](11. useful tools/11.03 json.ipynb)
+

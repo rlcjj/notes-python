@@ -58,6 +58,7 @@
 	 - [04.06 积分](04. scipy/04.06 integration in python.ipynb)
 	 - [04.07 解微分方程](04. scipy/04.07 ODEs.ipynb)
 	 - [04.08 稀疏矩阵](04. scipy/04.08 sparse matrix.ipynb)
+	 - [04.09 线性代数](04. scipy/04.09 linear algbra.ipynb)
 - [05. **Python 进阶**](05. advanced python)
 	 - [05.01 sys 模块简介](05. advanced python/05.01 overview of the sys module.ipynb)
 	 - [05.02 与操作系统进行交互：os 模块](05. advanced python/05.02 interacting with the OS - os.ipynb)
