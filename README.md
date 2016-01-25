@@ -59,7 +59,7 @@ conda update anaconda
 ----
 
 - [01. **Python 工具**](01. python tools)
-	 - [01.01 Python简介](01. python tools/01.01 python overview.ipynb)
+	 - [01.01 Python 简介](01. python tools/01.01 python overview.ipynb)
 	 - [01.02 Ipython 解释器](01. python tools/01.02 ipython interpreter.ipynb)
 	 - [01.03 Ipython notebook](01. python tools/01.03 ipython notebook.ipynb)
 	 - [01.04 使用 Anaconda](01. python tools/01.04 use anaconda.ipynb)
@@ -119,6 +119,7 @@ conda update anaconda
 	 - [04.07 解微分方程](04. scipy/04.07 ODEs.ipynb)
 	 - [04.08 稀疏矩阵](04. scipy/04.08 sparse matrix.ipynb)
 	 - [04.09 线性代数](04. scipy/04.09 linear algbra.ipynb)
+	 - [04.10 稀疏矩阵的线性代数](04. scipy/04.10 sparse linear algebra.ipynb)
 - [05. **Python 进阶**](05. advanced python)
 	 - [05.01 sys 模块简介](05. advanced python/05.01 overview of the sys module.ipynb)
 	 - [05.02 与操作系统进行交互：os 模块](05. advanced python/05.02 interacting with the OS - os.ipynb)
@@ -184,6 +185,7 @@ conda update anaconda
 	 - [09.11 Theano 实例：人工神经网络](09. theano/09.11 net on mnist.ipynb)
 	 - [09.12 Theano 变量：随机数流](09. theano/09.12 random streams.ipynb)
 	 - [09.13 Theano 实例：更复杂的网络](09. theano/09.13 modern net on mnist.ipynb)
+	 - [09.14 Theano 实例：卷积神经网络](09. theano/09.14 convolutional net on mnist.ipynb)
 - [10. **有趣的第三方模块**](10. something interesting)
 	 - [10.01 使用 basemap 画地图](10. something interesting/10.01 maps using basemap.ipynb)
 	 - [10.02 使用 cartopy 画地图](10. something interesting/10.02 maps using cartopy.ipynb)
@@ -191,4 +193,3 @@ conda update anaconda
 	 - [11.01 pprint 模块：打印 Python 对象](11. useful tools/11.01 pprint.ipynb)
 	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cpickle.ipynb)
 	 - [11.03 json 模块：处理 JSON 数据](11. useful tools/11.03 json.ipynb)
-
