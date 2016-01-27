@@ -52,7 +52,7 @@ conda update anaconda
 
 ## 目录
 
-可以在 [nbviewer](http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/index.ipynb) 中查看该项目。
+可以在 [nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
 可以在 Notebook 中打开 `generate static files.ipynb`，或者命令行中运行代码 `generate_static_files.py` 来生成静态的 HTML 文件。
 
