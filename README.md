@@ -2,35 +2,36 @@
 
 > 版本：0.0.1
 
-> 笔记作者：李金
+> 作者：李金
 
-> 邮件地址：lijinwithyou@gmail.com
+> 邮件：lijinwithyou@gmail.com
 
+`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
 ## 简介
 
 大部分内容来自网络。
 
-默认安装了`python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
+默认安装了 `Python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
 
 > life is short. use python.
 
-推荐使用 [anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
+推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
-笔记内容使用`ipython notebook`来展示。
+笔记内容使用 `ipython notebook` 来展示。
 
-安装好`python`和相应的包之后，可以在命令行下输入：
+安装好 `Python` 和相应的包之后，可以在命令行下输入：
 
 ```
 $ ipython notebook
 ```
-来进入`ipython notebook`。
+来进入 `ipython notebook`。
 
 ----
 
 ## 基本环境配置
 
-- 安装 [anaconda](http://www.continuum.io/downloads) 或者 [miniconda](http://conda.pydata.org/miniconda.html)
+- 安装 [Anaconda](http://www.continuum.io/downloads) 或者 [Miniconda](http://conda.pydata.org/miniconda.html)
 
 - 更新环境
 ``` 
@@ -47,12 +48,11 @@ conda update anaconda
 - [Scipy.org](http://scipy.org/)
 - [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
 - [High Performance Scientific Computing](http://faculty.washington.edu/rjl/uwhpsc-coursera/index.html)
+- [Scipy Lectures](http://www.scipy-lectures.org/)
 
 ----
 
 ## 目录
-
-可以在 [nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
 可以在 Notebook 中打开 `generate static files.ipynb`，或者命令行中运行代码 `generate_static_files.py` 来生成静态的 HTML 文件。
 
@@ -183,9 +183,10 @@ conda update anaconda
 	 - [09.09 Theano 实例：Logistic 回归](09. theano/09.09 logistic regression .ipynb)
 	 - [09.10 Theano 实例：Softmax 回归](09. theano/09.10 softmax on mnist.ipynb)
 	 - [09.11 Theano 实例：人工神经网络](09. theano/09.11 net on mnist.ipynb)
-	 - [09.12 Theano 变量：随机数流](09. theano/09.12 random streams.ipynb)
+	 - [09.12 Theano 随机数流变量](09. theano/09.12 random streams.ipynb)
 	 - [09.13 Theano 实例：更复杂的网络](09. theano/09.13 modern net on mnist.ipynb)
 	 - [09.14 Theano 实例：卷积神经网络](09. theano/09.14 convolutional net on mnist.ipynb)
+	 - [09.15 Theano tensor 模块](09. theano/09.15 tensor module.ipynb)
 - [10. **有趣的第三方模块**](10. something interesting)
 	 - [10.01 使用 basemap 画地图](10. something interesting/10.01 maps using basemap.ipynb)
 	 - [10.02 使用 cartopy 画地图](10. something interesting/10.02 maps using cartopy.ipynb)
@@ -193,3 +194,6 @@ conda update anaconda
 	 - [11.01 pprint 模块：打印 Python 对象](11. useful tools/11.01 pprint.ipynb)
 	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cpickle.ipynb)
 	 - [11.03 json 模块：处理 JSON 数据](11. useful tools/11.03 json.ipynb)
+	 - [11.04 glob 模块：文件模式匹配](11. useful tools/11.04 glob.ipynb)
+	 - [11.05 shutil 模块：高级文件操作](11. useful tools/11.05 shutil.ipynb)
+	 - [11.06 gzip, zipfile, tarfile 模块：处理压缩文件](11. useful tools/11.06 gzip, zipfile, tarfile.ipynb)
